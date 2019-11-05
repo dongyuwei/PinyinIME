@@ -40,3 +40,5 @@ captures/
 .idea/
 # Keystore files
 *.jks
+
+app/.externalNativeBuild/
